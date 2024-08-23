@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+t2
+=======
 day la main
+>>>>>>> 7088b4eab2d78f92068c3ca476182c2cae0c7d27
