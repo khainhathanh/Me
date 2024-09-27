@@ -1,0 +1,10 @@
+- Clone code từ nhánh cụ thể
+		git clone -b <branch> <remote_repo>
+	+ With Git 1.7.10
+		git clone -b opencv-2.4 --single-branch https://github.com/Itseez/opencv.git
+- Tạo nhánh và thực hiện xử lý trên nhánh
+		git checkout -b <branch>
+- Push code
+		git add .
+		git commit -m <comment>
+		git push

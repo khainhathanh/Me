@@ -1,0 +1,39 @@
+kinh nghiệm làm việc
+9/2021 - 8/2022 : 
+Lập trình viên CÔNG TY TNHH PHẦN MỀM FPT MIỀN TRUNG
+Dự án: Automation Robotic
+Công việc trong dự án: Đọc tài liệu, coding , Unit Test
+Công nghệ : Automation Robotic Studio
+
+11/2022 - 2/2023 : 
+Thực tập sinh CÔNG TY CỔ PHẦN MẠNG XÃ HỘI DU LỊCH HAHALOLO
+Dự án: Thực hiện các project local
+Công việc: Training coding 
+Công nghệ sử dụng : SpringBoot, MongoDB , Data JPA, API Postman 
+
+3/2023 - Hiện tại :
+Lập trình viên Công ty TNHH MTV Brycen Việt Nam
+3/2023 - 9/2023
+Dự án: DataSpider
+Công việc: Đọc tài liệu, coding , Unit Test
+Công nghệ sử dụng: DataSpider Studio, Microsoft SQL Server, Sakura, A5
+
+10/2023 - 11/2023
+Dự án : IHP (project local)
+Công việc: Coding, UnitTest 
+Công nghệ sử dụng:  SpringBoot , MySQL , Angular 
+
+11/2023 - 6/2024
+Dự án: e2workflow
+Công việc : Fix code, làm tài liệu fix code
+Công nghệ sử dụng : SpringBoot, Postgres, Angular
+
+6/2024 - 8/2024
+Dự án : Digital_Platformer
+Công việc : OJT React , Nodejs
+Công nghệ sử dụng : React , Nodejs
+
+8/2024 - 10/2024
+Dự án: Cost-Control
+Công việc : Đọc tài liệu, Coding 
+Công nghệ sử dụng : SpringBoot, SQL server ,Angular
